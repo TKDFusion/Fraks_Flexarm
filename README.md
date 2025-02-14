@@ -71,6 +71,20 @@ ___
 <br>
 
 ___
+# Print Settings
+
+* 0.2mm layer heights
+
+* 0.4mm Line Width
+
+* 4-5 walls
+
+* 4-5 top and bottom layers
+
+* 40% infill
+
+* ABS and ASA have been tested
+
 
 # Assembly Tips
 
