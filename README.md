@@ -4,7 +4,7 @@
 
 ### Free Range Arm Kinematics System
 
-The Flaks Flexarm is a tool-balancing arm designed to keep the attached tool parallel throughout its movement. It was created to hold soldering irons to install heat set inserts into 3d printed parts.
+The Fraks Flexarm is a tool-balancing arm designed to keep the attached tool parallel throughout its movement. It was created to hold soldering irons to install heat set inserts into 3D printed parts.
 
 It has a large working area for its size, and has quick release tool holders that are held in place with magnets.
 
