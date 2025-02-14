@@ -38,7 +38,7 @@ ___
 
 | Part Description                                          | Quantity |                                                                           |
 |-----------------------------------------------------------|----------|---------------------------------------------------------------------------|
-| 1515 Extrusion 200-300mm (All the same length)            | 4        |<img src="Images/1515_extrusion.png" alt="1515_Extrusion" width="300"/>    |
+| 1515 Extrusion 200-300mm (All the same length)            | 4        |<img src="Images/1515_Extrusion.png" alt="1515_Extrusion" width="300"/>    |
 | 10mm OD x 1mm Wire Gauge x 60mm Long Extension Springs    | 4        |<img src="Images/10X1X60_Spring.png" alt="10X1X60_Spring" width="120"/>    |
 | 10mm x 100mm long Pin                                     | 1        |<img src="Images/5x50mm Pin.png" alt="Pin" width="120"/>                   |
 | 10mm ID x 14mm OD x 30mm Length Brass Bushing             | 1        |<img src="Images/10x14x30_Bushing.png" alt="10x14x30_Bushing" width="70"/> |
