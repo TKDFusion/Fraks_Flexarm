@@ -8,6 +8,8 @@ The Flaks Flexarm is a tool-balancing arm designed to keep the attached tool par
 
 It has a large working area for its size, and has quick release tool holders that are held in place with magnets.
 
+Thanks to Zack Freedman for making Gridfinity an open source project, I have included Gridfinity storage into the base. You can read more about Gridfinity at <https://gridfinity.xyz/>
+
 ___
 
 # What do I need?
@@ -56,6 +58,16 @@ ___
 | 1-1/4 #8 Pocket screws (For screwing base to table)       | 4        |<img src="Images/Pocket_Screw.png" alt="Pocket_Screw" width="90"/>         |
 | Table Saw Fence Clamp (For clamping to table)             | 1        |<img src="Images/Fence_Clamp.png" alt="Fence_Clamp" width="140"/>          |
 
+___
+
+## Amazon links
+
+[Fence Clamps](https://www.amazon.com/gp/product/B07CJHZ7QL/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&th=1)
+
+[10x1x60 Springs](https://www.amazon.com/gp/product/B0CJFFL9MW)
+
+[10x14x30 Bushing](https://www.amazon.com/gp/product/B09QYQS7RX)
+
 <br>
 
 ___
@@ -71,6 +83,13 @@ ___
 * Build the other 2 arms like the image bellow, with the spring standoffs placed 90mm from one end. You can adjust these later.
 
 ![Arm_Hardware_01](Images/Arm_Hardware_02.png)
+
+___
+
+## * Refer to cad for further assembly help *
+
+<br>
+<br>
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
