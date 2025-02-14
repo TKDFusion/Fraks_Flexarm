@@ -1,4 +1,4 @@
-# FLAKS Flexarm
+# FRAKS Flexarm
 
 ![Fraks Flexarm](Images/Fraks_Flexarm_Render4.png)
 
