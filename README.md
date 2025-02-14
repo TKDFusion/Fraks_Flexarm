@@ -1,6 +1,6 @@
 # FLAKS Flexarm
 
-![Metal Stepper Towers](Images/Fraks_Flexarm_Render4.png)
+![Fraks Flexarm](Images/Fraks_Flexarm_Render4.png)
 
 ### Free Range Arm Kinematics System
 
@@ -9,6 +9,8 @@ The Flaks Flexarm is a tool-balancing arm designed to keep the attached tool par
 It has a large working area for its size, and has quick release tool holders that are held in place with magnets.
 
 Thanks to Zack Freedman for making Gridfinity an open source project, I have included Gridfinity storage into the base. You can read more about Gridfinity at <https://gridfinity.xyz/>
+
+![Fraks Animation](Images/Fraks.gif)
 
 ___
 
