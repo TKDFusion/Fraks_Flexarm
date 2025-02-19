@@ -55,7 +55,7 @@ ___
 | M3 Heatset Inserts (5mm OD x 4mm Length)                  | 10       |<img src="Images/M3XD5.0XL4.0-Heatset.png" alt="M3 Heatset" width="40"/>   |
 | M3 Hex Nuts                                               | 20       |<img src="Images/M3_Hex_Nut.png" alt="M3_Hex_Nut" width="40"/>             |
 | M5 Washers/Shims (10x1)                                   | 16       |<img src="Images/M5x10x1_Shim.png" alt="M5x10x1_Shim" width="40"/>         |
-| 6x3 Magnets                                               | 2        |<img src="Images/6x3_Magnet.png" alt="6x3_Magnet" width="40"/>             |
+| 6x3 Magnets                                               | 6        |<img src="Images/6x3_Magnet.png" alt="6x3_Magnet" width="40"/>             |
 | 6x2 Magnets (For Gridfinity Base)                         | 12       |<img src="Images/6x2_Magnet.png" alt="6x2_Magnet" width="40"/>             |
 | 1-1/4 #8 Pocket screws (For screwing base to table)       | 4        |<img src="Images/Pocket_Screw.png" alt="Pocket_Screw" width="90"/>         |
 | Table Saw Fence Clamp (For clamping to table)             | 1        |<img src="Images/Fence_Clamp.png" alt="Fence_Clamp" width="140"/>          |
