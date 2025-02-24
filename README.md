@@ -72,7 +72,17 @@ ___
 
 <br>
 
+## Vendor Kits
+
+[DLL-PDF](https://dllpdf.com/fraks-flexarm) - Has extrusion kits and a M3/M5 Screw only hardware option. They offer custom powder-coating, and will cut the extrusions to any length you want.
+
+[Fabreeko](https://www.fabreeko.com/products/fraks-flexarm-heat-insert-press-kits-by-turtle-crawler)   -
+ Offers complete kits in 3 sizes, 300mm, 350mm, and 400mm. A portion of all sales from the Fabreeko listing are donated to me.
+
+[KB-3D](https://kb-3d.com/store/tools-equipment/3474-fraks-flexarm-system-heat-set-insert-tool-configurator.html?affp=2443) - Offers customizable kits that let you pick and choose exactly what you need. This is great if you already have a good assortment of hardware. They also have the TS101 Iron and CNC Kitchen tip set. This is an affiliate link, and using this link will give me a small kickback of the total order.
+
 ___
+
 # Print Settings
 
 * 0.2mm layer heights
@@ -86,7 +96,6 @@ ___
 * 40% infill
 
 * ABS and ASA have been tested
-
 
 # Assembly Tips
 
@@ -102,19 +111,4 @@ ___
 
 ___
 
-## * Refer to cad for further assembly help *
-
-<br>
-<br>
-
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+## *Refer to cad for further assembly help*
